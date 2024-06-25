@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ExampleScene.unity
     guid: aa4d7abaaaa6f2149b52c88eae63120a
+  - enabled: 1
+    path: Assets/Scenes/Union.unity
+    guid: 080b0914b3e1c6044b373527fa8a5730
+  - enabled: 1
+    path: Assets/Scenes/Union_Indoor.unity
+    guid: c5ee98e6e3a40694d8199ee1140c3670
   m_configObjects: {}
