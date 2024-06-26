@@ -37,7 +37,7 @@ public class CameraMoves : MonoBehaviour
         {
             Camera.main.transform.position = Origin - Difference;
             Camera.main.transform.position = new Vector3(
-            Mathf.Clamp(Camera.main.transform.position.x, -1, 4),
+            Mathf.Clamp(Camera.main.transform.position.x, -5, 6),
             Mathf.Clamp(Camera.main.transform.position.y, 0, 0), transform.position.z);
         }
 
