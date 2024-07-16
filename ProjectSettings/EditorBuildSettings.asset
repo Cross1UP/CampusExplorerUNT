@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Union_Indoor.unity
     guid: c5ee98e6e3a40694d8199ee1140c3670
+  - enabled: 1
+    path: Assets/Scenes/Joe Greene.unity
+    guid: f4caa3a6742006947a5f5e161843bd44
+  - enabled: 1
+    path: Assets/Scenes/Kerr Hall.unity
+    guid: bd923c09c9dde1647808c1eb08d7bf78
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 02ac30c1c9ff4a14db08a5db2d9c52df
   m_configObjects: {}
