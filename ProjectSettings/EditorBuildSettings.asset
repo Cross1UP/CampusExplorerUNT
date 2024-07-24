@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Union.unity
+    guid: 6a909a425a15e464b8e2bfd8c06ae854
+  - enabled: 1
     path: Assets/Scenes/ExampleScene.unity
     guid: aa4d7abaaaa6f2149b52c88eae63120a
   - enabled: 1
@@ -39,12 +42,24 @@ EditorBuildSettings:
     path: Assets/Scenes/Union Front.unity
     guid: 7a1dda48fcf2fc84391736bb3c41197a
   - enabled: 1
-    path: Assets/Scenes/Union.unity
-    guid: 6a909a425a15e464b8e2bfd8c06ae854
+    path: Assets/Scenes/Music Annex.unity
+    guid: dcb2ea4f96d614e47a5bab7ba09f4c2a
   - enabled: 1
     path: Assets/Scenes/Clark Hall.unity
     guid: da4c8fd1aa45c7c41a89d891f9bc893a
   - enabled: 1
     path: Assets/Scenes/Maple Hall.unity
     guid: 342a5ed4e973c4e45881759daf99fe83
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: 5c23b972c6d4a2143b006fdb16ba6fc7
+  - enabled: 1
+    path: Assets/Scenes/Tutorial1.unity
+    guid: de719e9e33bda2d4aa88555534c74e58
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: ee9b7d2a0c700df40b83586fb7916a13
+  - enabled: 1
+    path: Assets/Scenes/Super Pit.unity
+    guid: 941da07a5def687489fa8f7333585767
   m_configObjects: {}

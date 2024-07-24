@@ -10,6 +10,16 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene("Union");
     }
 
+    public void PlayTutorial()
+    {
+        SceneManager.LoadScene("Tutorial1");
+    }
+
+    public void Credits()
+    {
+        SceneManager.LoadScene("Credits");
+    }
+
     public void QuitGame()
     {
         Application.Quit();
